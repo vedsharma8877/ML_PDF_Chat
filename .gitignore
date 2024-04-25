@@ -1,0 +1,4 @@
+# Ignore dependency packages
+**/node_modules/
+**/venv/
+**/.env

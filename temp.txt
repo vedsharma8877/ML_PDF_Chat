@@ -1,0 +1,4 @@
+conda create -p venv python==3.10 (to create venv)
+conda activate venv/ (to activate)
+pip install -r requirements.txt
+streamlit run app.py (to run the app)
